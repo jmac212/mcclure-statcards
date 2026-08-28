@@ -1,0 +1,20 @@
+{
+  "status": "pending-first-run",
+  "note": "Placeholder. The first automated daily-brief run at 8:08 AM UTC will overwrite this with real data.",
+  "iso_timestamp": "2026-08-28T01:24:58.891Z",
+  "anchor": {
+    "topic": "(no run yet)",
+    "source": "",
+    "source_url": "",
+    "voice_marker": "none",
+    "cta_format": "n/a",
+    "image_type": "text-only",
+    "image_url": ""
+  },
+  "runner_up": null,
+  "queue_depth": {
+    "linkedin_days_out": null,
+    "twitter_days_out": null
+  },
+  "alert": null
+}
