@@ -1,28 +1,28 @@
 {
-  "date": "2026-08-28",
-  "iso_timestamp": "2026-08-28T01:31:01.525134Z",
+  "date": "2026-09-02",
+  "iso_timestamp": "2026-09-03T01:52:44.470673Z",
   "status": "queued",
   "anchor": {
-    "topic": "ATF designated \"major incident\" after Qilin ransomware claim",
-    "source": "Nextgov/FCW",
-    "source_url": "https://www.nextgov.com/cybersecurity/2026/08/atf-investigating-major-cyber-incident-after-ransomware-group-claim/415668/",
-    "voice_marker": "army-aviation",
-    "cta_format": "3-practical-challenge",
+    "topic": "SonicWall SMA 1000 zero-days CVE-2026-83548 + CVE-2026-83549 exploited in the wild",
+    "source": "Dark Reading",
+    "source_url": "https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce",
+    "voice_marker": "Army Aviation",
+    "cta_format": "5-war-story",
     "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1614064548016-0b5c13ca2c85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHw0fHxnb3Zlcm5tZW50JTIwY3liZXJzZWN1cml0eXxlbnwwfHx8fDE3ODc4ODA1MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "image_url": "https://images.unsplash.com/photo-1691435828932-911a7801adfb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwxfHxuZXR3b3JrJTIwc2VjdXJpdHklMjBzZXJ2ZXJ8ZW58MHx8fHwxNzg4NDAwMjMzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "runner_up": {
-    "topic": "White-label ZBT routers ship with root-level backdoors",
-    "source": "Dark Reading",
-    "source_url": "https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors",
+    "topic": "Attackers impersonating IT support via Microsoft Teams to gain remote sessions",
+    "source": "Microsoft Security Blog",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/",
     "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1606904825846-647eb07f5be2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHw1fHxuZXR3b3JrJTIwcm91dGVyJTIwaGFyZHdhcmV8ZW58MHx8fHwxNzg3ODgwNTQ2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "image_url": "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHw3fHx2aWRlbyUyMGNhbGwlMjBsYXB0b3B8ZW58MHx8fHwxNzg4NDAwMjU0fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "queue_depth": {
-    "linkedin_days_out": 17.7,
-    "twitter_days_out": 15.8
+    "linkedin_days_out": 15.5,
+    "twitter_days_out": 13.7
   },
   "alert": {
-    "reason": "statcard-github-upload-skipped: base64-through-tool-call is impractical in this session; anchor used Unsplash fallback per SKILL.md"
+    "reason": "Stat card upload blocked: Chrome MCP javascript_tool text field truncates payloads beyond ~3KB, preventing 55KB base64 chunk-upload flow. Fell back to Unsplash for anchor image."
   }
 }
