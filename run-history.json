@@ -7,6 +7,14 @@
       "image_type": "unsplash",
       "queued": true,
       "topic": "ATF designated \"major incident\" after Qilin ransomware claim"
+    },
+    {
+      "date": "2026-09-02",
+      "voice": "Army Aviation",
+      "cta": "5-war-story",
+      "image_type": "unsplash",
+      "queued": true,
+      "topic": "SonicWall SMA 1000 zero-days CVE-2026-83548 + CVE-2026-83549 exploited in the wild"
     }
   ]
 }
