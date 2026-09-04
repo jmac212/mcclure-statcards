@@ -15,6 +15,14 @@
       "image_type": "unsplash",
       "queued": true,
       "topic": "SonicWall SMA 1000 zero-days CVE-2026-83548 + CVE-2026-83549 exploited in the wild"
+    },
+    {
+      "date": "2026-09-04",
+      "voice": "army-aviation",
+      "cta": "1-peer-question",
+      "image_type": "unsplash",
+      "queued": true,
+      "topic": "AI coding agents installing untrusted code on corporate networks"
     }
   ]
 }
