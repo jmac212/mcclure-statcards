@@ -1,28 +1,26 @@
 {
-  "date": "2026-09-02",
-  "iso_timestamp": "2026-09-03T01:52:44.470673Z",
+  "date": "2026-09-04",
+  "iso_timestamp": "2026-09-04T12:49:37.346332Z",
   "status": "queued",
   "anchor": {
-    "topic": "SonicWall SMA 1000 zero-days CVE-2026-83548 + CVE-2026-83549 exploited in the wild",
-    "source": "Dark Reading",
-    "source_url": "https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce",
-    "voice_marker": "Army Aviation",
-    "cta_format": "5-war-story",
+    "topic": "AI coding agents installing untrusted code on corporate networks",
+    "source": "Schneier on Security",
+    "source_url": "https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html",
+    "voice_marker": "army-aviation",
+    "cta_format": "1-peer-question",
     "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1691435828932-911a7801adfb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwxfHxuZXR3b3JrJTIwc2VjdXJpdHklMjBzZXJ2ZXJ8ZW58MHx8fHwxNzg4NDAwMjMzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "image_url": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwxfHxhaSUyMGNvZGluZyUyMGxhcHRvcCUyMGRhcmt8ZW58MHx8fHwxNzg4NTI1OTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "runner_up": {
-    "topic": "Attackers impersonating IT support via Microsoft Teams to gain remote sessions",
-    "source": "Microsoft Security Blog",
-    "source_url": "https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/",
+    "topic": "Toy Ghouls HiveMQ + Element/Matrix C2 backdoors",
+    "source": "Securelist (Kaspersky GERT)",
+    "source_url": "https://securelist.com/toy-ghouls-new-hivemq-and-element-backdoors/121270/",
     "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHw3fHx2aWRlbyUyMGNhbGwlMjBsYXB0b3B8ZW58MHx8fHwxNzg4NDAwMjU0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "image_url": "https://images.unsplash.com/photo-1691435828932-911a7801adfb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwxfHxzZXJ2ZXIlMjByb29tJTIwbmV0d29yayUyMGRhcmt8ZW58MHx8fHwxNzg4NTI1OTYyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "queue_depth": {
-    "linkedin_days_out": 15.5,
-    "twitter_days_out": 13.7
+    "linkedin_days_out": 17.1,
+    "twitter_days_out": 15.1
   },
-  "alert": {
-    "reason": "Stat card upload blocked: Chrome MCP javascript_tool text field truncates payloads beyond ~3KB, preventing 55KB base64 chunk-upload flow. Fell back to Unsplash for anchor image."
-  }
+  "alert": null
 }
