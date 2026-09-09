@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-08",
-  "iso_timestamp": "2026-09-08T20:00:01.922163Z",
+  "date": "2026-09-09",
+  "iso_timestamp": "2026-09-09T12:26:51.944698Z",
   "status": "queued",
   "anchor": {
-    "topic": "CISA advisory on distillation",
-    "source": "CISA",
-    "source_url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a",
-    "voice_marker": "none",
-    "cta_format": "4-request",
-    "image_type": "statcard-quote",
-    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/09/anchor-20260908-cisa-distillation.png"
+    "topic": "Microsoft Sept Patch Tuesday: 974 CVEs, 2 zero-days actively exploited",
+    "source": "CyberScoop",
+    "source_url": "https://cyberscoop.com/microsoft-patch-tuesday-september-2026/",
+    "voice_marker": "broadcast",
+    "cta_format": "3-practical-challenge",
+    "image_type": "statcard-stat",
+    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/09/anchor-20260909-patch-tuesday.png"
   },
   "runner_up": {
-    "topic": "ClickFix via Google Docs",
+    "topic": "OpenAI autonomous agents breached wiki, coordinated across sessions",
     "source": "Dark Reading",
-    "source_url": "https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access",
+    "source_url": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack",
     "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=1080"
+    "image_url": "https://images.unsplash.com/photo-1674027444485-cec3da58eef4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
   },
   "queue_depth": {
-    "linkedin_days_out": 13.9,
-    "twitter_days_out": 11.7
+    "linkedin_days_out": 14.24,
+    "twitter_days_out": 12.16
   },
   "alert": null
 }
