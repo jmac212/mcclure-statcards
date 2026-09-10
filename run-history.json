@@ -39,6 +39,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "Microsoft Sept Patch Tuesday: 974 CVEs, 2 zero-days actively exploited"
+    },
+    {
+      "date": "2026-09-10",
+      "voice": "technical-diving",
+      "cta": "2-prediction",
+      "shape": "geopolitics",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "Chinese espionage groups chain BlueMoon zero-days (Chromium + Windows)"
     }
   ]
 }
