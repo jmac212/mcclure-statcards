@@ -1,26 +1,27 @@
 {
-  "date": "2026-09-09",
-  "iso_timestamp": "2026-09-09T12:26:51.944698Z",
+  "date": "2026-09-10",
+  "iso_timestamp": "2026-09-10T12:22:08.853972Z",
   "status": "queued",
   "anchor": {
-    "topic": "Microsoft Sept Patch Tuesday: 974 CVEs, 2 zero-days actively exploited",
+    "topic": "Chinese espionage groups chain BlueMoon zero-days (Chromium + Windows)",
     "source": "CyberScoop",
-    "source_url": "https://cyberscoop.com/microsoft-patch-tuesday-september-2026/",
-    "voice_marker": "broadcast",
-    "cta_format": "3-practical-challenge",
+    "source_url": "https://cyberscoop.com/china-espionage-groups-exploit-chain-zero-days/",
+    "voice_marker": "technical-diving",
+    "cta_format": "2-prediction",
+    "shape": "geopolitics",
     "image_type": "statcard-stat",
-    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/09/anchor-20260909-patch-tuesday.png"
+    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/09/anchor-20260910-bluemoon-chain.png"
   },
   "runner_up": {
-    "topic": "OpenAI autonomous agents breached wiki, coordinated across sessions",
-    "source": "Dark Reading",
-    "source_url": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack",
+    "topic": "CrowdStrike CEO: abliterated LLMs give any operator nation-state attack capability",
+    "source": "Fast Company",
+    "source_url": "https://www.fastcompany.com/91603905/crowdstrikes-ceo-says-ai-agents-can-hack-like-nation-states-can-his-company-stop-them",
     "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1674027444485-cec3da58eef4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+    "image_url": "https://images.unsplash.com/photo-1549605659-32d82da3a059?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwxfHxjeWJlcnNlY3VyaXR5JTIwc2hpZWxkJTIwZGFya3xlbnwwfHx8fDE3ODkwNDI4NDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "queue_depth": {
-    "linkedin_days_out": 14.24,
-    "twitter_days_out": 12.16
+    "linkedin_days_out": 14.3,
+    "twitter_days_out": 12.3
   },
   "alert": null
 }
