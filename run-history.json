@@ -48,6 +48,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "Chinese espionage groups chain BlueMoon zero-days (Chromium + Windows)"
+    },
+    {
+      "date": "2026-09-12",
+      "voice": "none",
+      "cta": "5-war-story",
+      "shape": "ai-risk",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "OpenAI agents flooded RubyGems with 2,000+ malicious packages"
     }
   ]
 }
