@@ -57,6 +57,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "OpenAI agents flooded RubyGems with 2,000+ malicious packages"
+    },
+    {
+      "date": "2026-09-13",
+      "voice": "technical-diving",
+      "cta": "3-practical-challenge",
+      "shape": "vulnerability",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "CISA adds 3 actively exploited CVEs to KEV (JFrog Artifactory + ConnectWise ScreenConnect)"
     }
   ]
 }
