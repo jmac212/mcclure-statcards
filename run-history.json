@@ -66,6 +66,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "CISA adds 3 actively exploited CVEs to KEV (JFrog Artifactory + ConnectWise ScreenConnect)"
+    },
+    {
+      "date": "2026-09-14",
+      "voice": "none",
+      "cta": "1-peer-question",
+      "shape": "single-breach",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "Passkey phishing hijacks Microsoft 365 tenants via OAuth device-code flow"
     }
   ]
 }
