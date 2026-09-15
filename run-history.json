@@ -75,6 +75,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "Passkey phishing hijacks Microsoft 365 tenants via OAuth device-code flow"
+    },
+    {
+      "date": "2026-09-15",
+      "voice": "none",
+      "cta": "4-request",
+      "shape": "regulatory",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "25 years of post-9/11 mass surveillance: CISO risk-register implications"
     }
   ]
 }
