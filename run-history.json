@@ -84,6 +84,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "25 years of post-9/11 mass surveillance: CISO risk-register implications"
+    },
+    {
+      "date": "2026-09-16",
+      "voice": "none",
+      "cta": "3-practical-challenge",
+      "shape": "synthesis",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "NIST/CISA finalize IR 8587: token theft & forgery playbook"
     }
   ]
 }
