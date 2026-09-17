@@ -93,6 +93,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "NIST/CISA finalize IR 8587: token theft & forgery playbook"
+    },
+    {
+      "date": "2026-09-17",
+      "voice": "army-aviation",
+      "cta": "2-prediction",
+      "shape": "other",
+      "image_type": "statcard-quote",
+      "queued": true,
+      "topic": "CISA publishes first cyber-decoy guidance for critical infrastructure"
     }
   ]
 }
