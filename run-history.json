@@ -102,6 +102,15 @@
       "image_type": "statcard-quote",
       "queued": true,
       "topic": "CISA publishes first cyber-decoy guidance for critical infrastructure"
+    },
+    {
+      "date": "2026-09-18",
+      "voice": "technical-diving",
+      "cta": "5-war-story",
+      "shape": "ai-risk",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "Plugin4Shell: zero-click RCE defeats SHA-pinning in every major AI coding agent"
     }
   ]
 }
