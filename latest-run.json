@@ -1,29 +1,27 @@
 {
-  "date": "2026-09-18",
-  "iso_timestamp": "2026-09-18T17:59:49.140724Z",
-  "status": "paused",
+  "date": "2026-09-19",
+  "iso_timestamp": "2026-09-19T12:11:58.186119Z",
+  "status": "queued",
   "anchor": {
-    "topic": "n/a \u2014 duplicate firing aborted",
-    "source": "n/a",
-    "source_url": "n/a",
+    "topic": "Bug hunters used Claude Opus 5 to hack OpenAI ChatGPT accounts",
+    "source": "The Register",
+    "source_url": "https://www.theregister.com/security/2026/09/18/researchers-used-claude-to-hack-openai-employees-chatgpt-accounts/5297517",
     "voice_marker": "none",
-    "cta_format": "none",
-    "shape": "other",
-    "image_type": "text-only",
-    "image_url": ""
+    "cta_format": "5-war-story",
+    "shape": "ai-risk",
+    "image_type": "statcard-stat",
+    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/09/anchor-20260919-claude-openai.png"
   },
   "runner_up": {
-    "topic": "n/a",
-    "source": "n/a",
-    "source_url": "n/a",
-    "image_type": "text-only",
-    "image_url": ""
+    "topic": "North Korea WaterPlum: 30,000 devices via fake job interviews",
+    "source": "The Register",
+    "source_url": "https://www.theregister.com/security/2026/09/18/north-koreas-fake-job-interviews-infected-30000-devices/5297461",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1602016736566-7ed6a58894bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwyfHxqb2IlMjBpbnRlcnZpZXclMjBsYXB0b3B8ZW58MHx8fHwxNzg5ODE5ODM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "queue_depth": {
-    "linkedin_days_out": 0.0,
-    "twitter_days_out": 0.0
+    "linkedin_days_out": 14.3,
+    "twitter_days_out": 12.2
   },
-  "alert": {
-    "reason": "duplicate firing \u2014 daily run already completed for 2026-09-18"
-  }
+  "alert": null
 }
