@@ -111,6 +111,15 @@
       "image_type": "text-only",
       "queued": false,
       "topic": "n/a \u2014 duplicate firing aborted"
+    },
+    {
+      "date": "2026-09-19",
+      "voice": "none",
+      "cta": "5-war-story",
+      "shape": "ai-risk",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "Bug hunters used Claude Opus 5 to hack OpenAI ChatGPT accounts"
     }
   ]
 }
