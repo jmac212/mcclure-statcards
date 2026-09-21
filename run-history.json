@@ -123,12 +123,12 @@
     },
     {
       "date": "2026-09-21",
-      "voice": "technical-diving",
-      "cta": "1-peer-question",
-      "shape": "vulnerability",
-      "image_type": "statcard-stat",
-      "queued": true,
-      "topic": "Cisco ISE zero-day CVE-2026-76460"
+      "voice": "none",
+      "cta": "none",
+      "shape": "other",
+      "image_type": "text-only",
+      "queued": false,
+      "topic": "n/a \u2014 duplicate firing aborted"
     }
   ]
 }
