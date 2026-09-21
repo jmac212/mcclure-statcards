@@ -120,6 +120,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "Bug hunters used Claude Opus 5 to hack OpenAI ChatGPT accounts"
+    },
+    {
+      "date": "2026-09-21",
+      "voice": "technical-diving",
+      "cta": "1-peer-question",
+      "shape": "vulnerability",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "Cisco ISE zero-day CVE-2026-76460"
     }
   ]
 }
