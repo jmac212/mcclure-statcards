@@ -1,27 +1,29 @@
 {
   "date": "2026-09-21",
-  "iso_timestamp": "2026-09-21T00:46:19.336511Z",
-  "status": "queued",
+  "iso_timestamp": "2026-09-21T12:02:58.723410Z",
+  "status": "paused",
   "anchor": {
-    "topic": "Cisco ISE zero-day CVE-2026-76460",
-    "source": "Dark Reading",
-    "source_url": "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
-    "voice_marker": "technical-diving",
-    "cta_format": "1-peer-question",
-    "shape": "vulnerability",
-    "image_type": "statcard-stat",
-    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/09/anchor-20260921-cisco-ise-cve-2026-76460.png"
+    "topic": "n/a \u2014 duplicate firing aborted",
+    "source": "n/a",
+    "source_url": "n/a",
+    "voice_marker": "none",
+    "cta_format": "none",
+    "shape": "other",
+    "image_type": "text-only",
+    "image_url": "n/a"
   },
   "runner_up": {
-    "topic": "Agentic AI security: non-human identity gap",
-    "source": "The Register",
-    "source_url": "https://www.theregister.com/security/2026/09/19/agentic-security-is-the-billion-dollar-challenge-for-some-clever-startup-to-solve/5297546",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1674027444485-cec3da58eef4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwyfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwbmV0d29ya3xlbnwwfHx8fDE3ODk5NTE0ODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "topic": "n/a",
+    "source": "n/a",
+    "source_url": "n/a",
+    "image_type": "text-only",
+    "image_url": "n/a"
   },
   "queue_depth": {
-    "linkedin_days_out": 13.7,
-    "twitter_days_out": 11.7
+    "linkedin_days_out": 0.0,
+    "twitter_days_out": 0.0
   },
-  "alert": null
+  "alert": {
+    "reason": "duplicate firing aborted \u2014 earlier run today already queued Cisco ISE anchor"
+  }
 }
