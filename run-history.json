@@ -129,6 +129,15 @@
       "image_type": "text-only",
       "queued": false,
       "topic": "n/a \u2014 duplicate firing aborted"
+    },
+    {
+      "date": "2026-09-22",
+      "voice": "broadcast-critical-infra",
+      "cta": "1-peer-question",
+      "shape": "single-breach",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "CenterPoint utility breach \u2014 7.5M records exposed via third-party system"
     }
   ]
 }
