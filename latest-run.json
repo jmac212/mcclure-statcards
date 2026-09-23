@@ -1,27 +1,27 @@
 {
-  "date": "2026-09-22",
-  "iso_timestamp": "2026-09-22T12:07:28.315560Z",
+  "date": "2026-09-23",
+  "iso_timestamp": "2026-09-23T12:21:31.461248Z",
   "status": "queued",
   "anchor": {
-    "topic": "CenterPoint utility breach \u2014 7.5M records exposed via third-party system",
-    "source": "Information Security Buzz",
-    "source_url": "https://informationsecuritybuzz.com/centerpoint-energy-data-breach/",
-    "voice_marker": "broadcast-critical-infra",
-    "cta_format": "1-peer-question",
-    "shape": "single-breach",
+    "topic": "CVE-2026-44756: CVSS 10.0 pre-auth RCE in SAP kernel (ICM, Web Dispatcher, disp+work)",
+    "source": "Full Disclosure (nullFaktor)",
+    "source_url": "https://seclists.org/fulldisclosure/2026/Sep/65",
+    "voice_marker": "none",
+    "cta_format": "3-practical-challenge",
+    "shape": "vulnerability",
     "image_type": "statcard-stat",
-    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/09/anchor-20260922-centerpoint.png"
+    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/09/anchor-20260923-sap-cve-44756.png"
   },
   "runner_up": {
-    "topic": "Meta Muse macOS zero-day \u2014 local process can redirect AI dictation traffic",
-    "source": "The Register",
-    "source_url": "https://www.theregister.com/ai-and-ml/2026/09/21/meta-muse-ai-app-flaw-lets-local-malware-redirect-dictation-traffic/5297980",
+    "topic": "CISO-CMO alliance: build crisis-comms relationship before you need it",
+    "source": "Dark Reading",
+    "source_url": "https://www.darkreading.com/cybersecurity-operations/how-ciso-cmo-alliance-builds-trust-before-crisis",
     "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1547057560-0131a62a766f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwxfHxzbWFydCUyMGdsYXNzZXMlMjBkYXJrfGVufDB8fHx8MTc5MDA3ODc1OHww&ixlib=rb-4.1.0&q=80&w=1080"
+    "image_url": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwxfHxleGVjdXRpdmUlMjBtZWV0aW5nJTIwY29uZmVyZW5jZSUyMHJvb218ZW58MHx8fHwxNzkwMTY2MDIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "queue_depth": {
-    "linkedin_days_out": 13.24,
-    "twitter_days_out": 11.32
+    "linkedin_days_out": 13.2,
+    "twitter_days_out": 11.2
   },
   "alert": null
 }
