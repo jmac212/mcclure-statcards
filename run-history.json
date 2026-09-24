@@ -147,6 +147,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "CVE-2026-44756: CVSS 10.0 pre-auth RCE in SAP kernel (ICM, Web Dispatcher, disp+work)"
+    },
+    {
+      "date": "2026-09-24",
+      "voice": "army-aviation",
+      "cta": "2-prediction",
+      "shape": "regulatory",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "CISA \"Quality Era\" plan for the CVE program - 67,000 CVEs published in 2026, data quality overhaul announced"
     }
   ]
 }
