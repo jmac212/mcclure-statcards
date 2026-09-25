@@ -156,6 +156,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "CISA \"Quality Era\" plan for the CVE program - 67,000 CVEs published in 2026, data quality overhaul announced"
+    },
+    {
+      "date": "2026-09-25",
+      "voice": "none",
+      "cta": "4-request",
+      "shape": "synthesis",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "Chinese-speaking operator uses three open-source AI agents (Hermes, Strix, Cairn) to breach 27+ companies including a Fortune 500 hospitality co and a major US airline for ~$18K over 5 days"
     }
   ]
 }
