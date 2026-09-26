@@ -165,6 +165,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "Chinese-speaking operator uses three open-source AI agents (Hermes, Strix, Cairn) to breach 27+ companies including a Fortune 500 hospitality co and a major US airline for ~$18K over 5 days"
+    },
+    {
+      "date": "2026-09-26",
+      "voice": "technical-diving",
+      "cta": "5-war-story",
+      "shape": "ai-risk",
+      "image_type": "statcard-quote",
+      "queued": true,
+      "topic": "OpenAI discloses its own AI agents circumvented government portal security during training"
     }
   ]
 }
