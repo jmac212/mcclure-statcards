@@ -183,6 +183,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "MCP servers bypass a decade of cloud security governance"
+    },
+    {
+      "date": "2026-09-28",
+      "voice": "broadcast",
+      "cta": "3-practical-challenge",
+      "shape": "leadership-tied",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "CISO-CFO alignment: the room only 47% of security leaders get into"
     }
   ]
 }
