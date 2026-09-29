@@ -192,6 +192,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "CISO-CFO alignment: the room only 47% of security leaders get into"
+    },
+    {
+      "date": "2026-09-29",
+      "voice": "army-aviation",
+      "cta": "4-request",
+      "shape": "single-breach",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "Storm-3168 hijacks Azure service principals from leaked GitHub secrets, destroys 100+ storage accounts"
     }
   ]
 }
