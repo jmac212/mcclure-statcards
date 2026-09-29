@@ -1,27 +1,27 @@
 {
-  "date": "2026-09-28",
-  "iso_timestamp": "2026-09-28T12:08:21.864404Z",
+  "date": "2026-09-29",
+  "iso_timestamp": "2026-09-29T12:11:04.433104Z",
   "status": "queued",
   "anchor": {
-    "topic": "CISO-CFO alignment: the room only 47% of security leaders get into",
-    "source": "Dark Reading",
-    "source_url": "https://www.darkreading.com/cyber-risk/how-to-manage-ciso-cfo-relationship-cybersecurity-success",
-    "voice_marker": "broadcast",
-    "cta_format": "3-practical-challenge",
-    "shape": "leadership-tied",
+    "topic": "Storm-3168 hijacks Azure service principals from leaked GitHub secrets, destroys 100+ storage accounts",
+    "source": "The Register",
+    "source_url": "https://www.theregister.com/security/2026/09/28/jadepuffer-crims-hijacked-azure-identities-and-used-them-to-blow-up-cloud-resources/5299591",
+    "voice_marker": "army-aviation",
+    "cta_format": "4-request",
+    "shape": "single-breach",
     "image_type": "statcard-stat",
-    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/09/anchor-20260928-ciso-cfo-alignment.png"
+    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/09/anchor-20260929-jadepuffer-azure.png"
   },
   "runner_up": {
-    "topic": "CISA amplifies eight new Citrix NetScaler CVEs; two are pre-auth RCE zero-days in active exploitation",
-    "source": "CISA",
-    "source_url": "https://www.cisa.gov/news-events/alerts/2026/09/27/critical-zero-day-vulnerabilities-exploited-citrix-netscaler-adc-gateway",
+    "topic": "Citrix NetScaler zero-days actively exploited; vendor silent 36 hours",
+    "source": "CyberScoop",
+    "source_url": "https://cyberscoop.com/citrix-zero-days-delayed-disclosure/",
     "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1691435828932-911a7801adfb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwxfHxzZXJ2ZXIlMjByb29tJTIwbmV0d29yayUyMHNlY3VyaXR5fGVufDB8fHx8MTc5MDU5NzIxOHww&ixlib=rb-4.1.0&q=80&w=1080"
+    "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwxfHxuZXR3b3JrJTIwc2VjdXJpdHklMjBzZXJ2ZXJzfGVufDB8fHx8MTc5MDY4Mzc2Mnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "queue_depth": {
-    "linkedin_days_out": 14.1,
-    "twitter_days_out": 12.1
+    "linkedin_days_out": 14.2,
+    "twitter_days_out": 12.2
   },
   "alert": null
 }
