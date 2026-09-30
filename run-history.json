@@ -201,6 +201,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "Storm-3168 hijacks Azure service principals from leaked GitHub secrets, destroys 100+ storage accounts"
+    },
+    {
+      "date": "2026-09-30",
+      "voice": "none",
+      "cta": "2-prediction",
+      "shape": "vulnerability",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "CVE-2026-86950 Apple CoreGraphics zero-day weaponized in targeted attacks"
     }
   ]
 }
