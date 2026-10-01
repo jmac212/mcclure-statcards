@@ -210,6 +210,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "CVE-2026-86950 Apple CoreGraphics zero-day weaponized in targeted attacks"
+    },
+    {
+      "date": "2026-10-01",
+      "voice": "army-aviation",
+      "cta": "1-peer-question",
+      "shape": "geopolitics",
+      "image_type": "statcard-quote",
+      "queued": true,
+      "topic": "China-linked TA419 phishes AI policy experts posing as former US officials and an Anthropic staffer"
     }
   ]
 }
