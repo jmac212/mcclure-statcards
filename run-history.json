@@ -219,6 +219,15 @@
       "image_type": "statcard-quote",
       "queued": true,
       "topic": "China-linked TA419 phishes AI policy experts posing as former US officials and an Anthropic staffer"
+    },
+    {
+      "date": "2026-10-02",
+      "voice": "technical-diving",
+      "cta": "5-war-story",
+      "shape": "synthesis",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "Microsoft 2026 Digital Defense Report: govt now 27% of threat activity, Storm-3168 agentic Azure attacks"
     }
   ]
 }
