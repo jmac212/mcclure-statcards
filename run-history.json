@@ -228,6 +228,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "Microsoft 2026 Digital Defense Report: govt now 27% of threat activity, Storm-3168 agentic Azure attacks"
+    },
+    {
+      "date": "2026-10-03",
+      "voice": "army-aviation",
+      "cta": "2-prediction",
+      "shape": "regulatory",
+      "image_type": "statcard-quote",
+      "queued": true,
+      "topic": "Legal liability for agentic AI hacks (CFAA gap, FTC/legislation)"
     }
   ]
 }
