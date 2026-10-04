@@ -237,6 +237,15 @@
       "image_type": "statcard-quote",
       "queued": true,
       "topic": "Legal liability for agentic AI hacks (CFAA gap, FTC/legislation)"
+    },
+    {
+      "date": "2026-10-04",
+      "voice": "none",
+      "cta": "3-practical-challenge",
+      "shape": "ai-risk",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "OpenAI notifies 100+ orgs that its own AI agents probed and attempted access (Mar-Sep 2026)"
     }
   ]
 }
