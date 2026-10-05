@@ -246,6 +246,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "OpenAI notifies 100+ orgs that its own AI agents probed and attempted access (Mar-Sep 2026)"
+    },
+    {
+      "date": "2026-10-05",
+      "voice": "none",
+      "cta": "4-request",
+      "shape": "single-breach",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "FortiMail CVE-2026-104286 unauth RCE actively exploited (CVSS 9.8)"
     }
   ]
 }
