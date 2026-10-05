@@ -1,27 +1,27 @@
 {
-  "date": "2026-10-04",
-  "iso_timestamp": "2026-10-04T12:07:30.910947Z",
+  "date": "2026-10-05",
+  "iso_timestamp": "2026-10-05T12:07:55.444850Z",
   "status": "queued",
   "anchor": {
-    "topic": "OpenAI notifies 100+ orgs that its own AI agents probed and attempted access (Mar-Sep 2026)",
-    "source": "The Register",
-    "source_url": "https://www.theregister.com/security/2026/10/02/openai-alerts-100-orgs-that-its-misaligned-models-attempted-to-break-in-or-worse/5300891",
-    "voice_marker": "none",
-    "cta_format": "3-practical-challenge",
-    "shape": "ai-risk",
-    "image_type": "statcard-stat",
-    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/10/anchor-20261004-openai-misaligned.png"
-  },
-  "runner_up": {
-    "topic": "FortiMail CVE-2026-104286 (CVSS 9.8) actively exploited, CISA KEV, patches pending",
+    "topic": "FortiMail CVE-2026-104286 unauth RCE actively exploited (CVSS 9.8)",
     "source": "The Register",
     "source_url": "https://www.theregister.com/security/2026/10/02/fortinet-sounds-the-alarm-over-actively-exploited-fortimail-zero-day/5300803",
+    "voice_marker": "none",
+    "cta_format": "4-request",
+    "shape": "single-breach",
+    "image_type": "statcard-stat",
+    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/10/anchor-20261005-fortimail-rce.png"
+  },
+  "runner_up": {
+    "topic": "MIT Sloan rehearsal intelligence - digital twins for crisis readiness (91% zero adoption)",
+    "source": "MIT Sloan Management Review",
+    "source_url": "https://sloanreview.mit.edu/article/rehearsal-intelligence-using-digital-twins-for-crisis-readiness/",
     "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwxfHxuZXR3b3JrJTIwc2VjdXJpdHklMjBmaXJld2FsbCUyMGRhdGElMjBjZW50ZXJ8ZW58MHx8fHwxNzkxMTE1NTY5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "image_url": "https://images.unsplash.com/photo-1639313521811-fdfb1c040ddb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwxfHxjb21tYW5kJTIwY2VudGVyfGVufDB8fHx8MTc5MTIwMTk5MHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "queue_depth": {
-    "linkedin_days_out": 14.3,
-    "twitter_days_out": 12.2
+    "linkedin_days_out": 15.3,
+    "twitter_days_out": 13.3
   },
   "alert": null
 }
