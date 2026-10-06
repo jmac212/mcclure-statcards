@@ -255,6 +255,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "FortiMail CVE-2026-104286 unauth RCE actively exploited (CVSS 9.8)"
+    },
+    {
+      "date": "2026-10-06",
+      "voice": "none",
+      "cta": "1-peer-question",
+      "shape": "vulnerability",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "Citrix NetScaler third actively exploited zero-day in under a week (CVE-2026-88779)"
     }
   ]
 }
