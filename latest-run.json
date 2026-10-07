@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-06",
-  "iso_timestamp": "2026-10-06T12:08:04.903585Z",
+  "date": "2026-10-07",
+  "iso_timestamp": "2026-10-07T12:09:41.433181Z",
   "status": "queued",
   "anchor": {
-    "topic": "Citrix NetScaler third actively exploited zero-day in under a week (CVE-2026-88779)",
-    "source": "CyberScoop",
-    "source_url": "https://cyberscoop.com/citrix-netscaler-third-exploited-zero-day-vulnerability/",
-    "voice_marker": "none",
-    "cta_format": "1-peer-question",
-    "shape": "vulnerability",
-    "image_type": "statcard-stat",
-    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/10/anchor-20261006-citrix-netscaler-trio.png"
+    "topic": "AI reshaping CISO budgets and the collapsing analyst pipeline",
+    "source": "Dark Reading / IANS",
+    "source_url": "https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams",
+    "voice_marker": "army-aviation",
+    "cta_format": "3-practical-challenge",
+    "shape": "leadership-tied",
+    "image_type": "statcard-quote",
+    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/10/anchor-20261007-analyst-pipeline.png"
   },
   "runner_up": {
-    "topic": "CISA OT cybersecurity directive proposal (OT Cybersecurity Coalition)",
+    "topic": "FortiBleed FBI alert ransomware pipeline",
     "source": "CyberScoop",
-    "source_url": "https://cyberscoop.com/cisa-ot-cybersecurity-directive/",
+    "source_url": "https://cyberscoop.com/fortibleed-fortinet-vpn-ransomware-fbi-warning/",
     "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1738918937796-743064feefa1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwxfHxpbmR1c3RyaWFsJTIwY29udHJvbCUyMHJvb218ZW58MHx8fHwxNzkxMjg4NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "image_url": "https://images.unsplash.com/photo-1614064548237-096f735f344f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwxfHxmaXJld2FsbCUyMG5ldHdvcmslMjBzZWN1cml0eXxlbnwwfHx8fDE3OTEzNzQ4MTV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "queue_depth": {
     "linkedin_days_out": 15.1,
