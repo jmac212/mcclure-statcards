@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-08-28",
-      "voice": "army-aviation",
-      "cta": "3-practical-challenge",
-      "image_type": "unsplash",
-      "queued": true,
-      "topic": "ATF designated \"major incident\" after Qilin ransomware claim"
-    },
-    {
       "date": "2026-09-02",
       "voice": "Army Aviation",
       "cta": "5-war-story",
@@ -264,6 +256,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "Citrix NetScaler third actively exploited zero-day in under a week (CVE-2026-88779)"
+    },
+    {
+      "date": "2026-10-07",
+      "voice": "army-aviation",
+      "cta": "3-practical-challenge",
+      "shape": "leadership-tied",
+      "image_type": "statcard-quote",
+      "queued": true,
+      "topic": "AI reshaping CISO budgets and the collapsing analyst pipeline"
     }
   ]
 }
