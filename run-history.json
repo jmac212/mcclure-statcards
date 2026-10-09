@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-09-04",
-      "voice": "army-aviation",
-      "cta": "1-peer-question",
-      "image_type": "unsplash",
-      "queued": true,
-      "topic": "AI coding agents installing untrusted code on corporate networks"
-    },
-    {
       "date": "2026-09-08",
       "voice": "none",
       "cta": "4-request",
@@ -266,6 +258,15 @@
       "image_type": "statcard-quote",
       "queued": true,
       "topic": "UK/Germany cyber-pact against Russian hybrid ops"
+    },
+    {
+      "date": "2026-10-09",
+      "voice": "technical-diving",
+      "cta": "2-prediction",
+      "shape": "other",
+      "image_type": "statcard-quote",
+      "queued": true,
+      "topic": "MonsterCloud ransomware-recovery CEO indicted for secretly paying attackers and marking up ransoms"
     }
   ]
 }
