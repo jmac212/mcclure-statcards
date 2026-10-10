@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-09-08",
-      "voice": "none",
-      "cta": "4-request",
-      "image_type": "statcard-quote",
-      "queued": true,
-      "topic": "CISA advisory on distillation"
-    },
-    {
       "date": "2026-09-09",
       "voice": "broadcast",
       "cta": "3-practical-challenge",
@@ -267,6 +259,15 @@
       "image_type": "statcard-quote",
       "queued": true,
       "topic": "MonsterCloud ransomware-recovery CEO indicted for secretly paying attackers and marking up ransoms"
+    },
+    {
+      "date": "2026-10-10",
+      "voice": "none",
+      "cta": "3-practical-challenge",
+      "shape": "ai-risk",
+      "image_type": "statcard-quote",
+      "queued": true,
+      "topic": "AWS Bedrock AgentCore: one chat prompt took over every agent in a region (Zenity Labs disclosure)"
     }
   ]
 }
