@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-09-09",
-      "voice": "broadcast",
-      "cta": "3-practical-challenge",
-      "image_type": "statcard-stat",
-      "queued": true,
-      "topic": "Microsoft Sept Patch Tuesday: 974 CVEs, 2 zero-days actively exploited"
-    },
-    {
       "date": "2026-09-10",
       "voice": "technical-diving",
       "cta": "2-prediction",
@@ -268,6 +260,15 @@
       "image_type": "statcard-quote",
       "queued": true,
       "topic": "AWS Bedrock AgentCore: one chat prompt took over every agent in a region (Zenity Labs disclosure)"
+    },
+    {
+      "date": "2026-10-11",
+      "voice": "none",
+      "cta": "4-request",
+      "shape": "single-breach",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "ASOS breach: push notification system weaponized against 17M customers"
     }
   ]
 }
