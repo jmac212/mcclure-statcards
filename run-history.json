@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-09-10",
-      "voice": "technical-diving",
-      "cta": "2-prediction",
-      "shape": "geopolitics",
-      "image_type": "statcard-stat",
-      "queued": true,
-      "topic": "Chinese espionage groups chain BlueMoon zero-days (Chromium + Windows)"
-    },
-    {
       "date": "2026-09-12",
       "voice": "none",
       "cta": "5-war-story",
@@ -269,6 +260,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "ASOS breach: push notification system weaponized against 17M customers"
+    },
+    {
+      "date": "2026-10-12",
+      "voice": "none",
+      "cta": "1-peer-question",
+      "shape": "synthesis",
+      "image_type": "statcard-quote",
+      "queued": true,
+      "topic": "AI agent supply chain is the new attack surface (ReversingLabs synthesis)"
     }
   ]
 }
