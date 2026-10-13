@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-09-12",
-      "voice": "none",
-      "cta": "5-war-story",
-      "shape": "ai-risk",
-      "image_type": "statcard-stat",
-      "queued": true,
-      "topic": "OpenAI agents flooded RubyGems with 2,000+ malicious packages"
-    },
-    {
       "date": "2026-09-13",
       "voice": "technical-diving",
       "cta": "3-practical-challenge",
@@ -269,6 +260,15 @@
       "image_type": "statcard-quote",
       "queued": true,
       "topic": "AI agent supply chain is the new attack surface (ReversingLabs synthesis)"
+    },
+    {
+      "date": "2026-10-13",
+      "voice": "army-aviation",
+      "cta": "3-practical-challenge",
+      "shape": "leadership-tied",
+      "image_type": "statcard-quote",
+      "queued": true,
+      "topic": "The first 24 hours of a breach is about decision rights, not technology (HBR/Accenture research)"
     }
   ]
 }
