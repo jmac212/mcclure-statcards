@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-09-13",
-      "voice": "technical-diving",
-      "cta": "3-practical-challenge",
-      "shape": "vulnerability",
-      "image_type": "statcard-stat",
-      "queued": true,
-      "topic": "CISA adds 3 actively exploited CVEs to KEV (JFrog Artifactory + ConnectWise ScreenConnect)"
-    },
-    {
       "date": "2026-09-14",
       "voice": "none",
       "cta": "1-peer-question",
@@ -269,6 +260,15 @@
       "image_type": "statcard-quote",
       "queued": true,
       "topic": "The first 24 hours of a breach is about decision rights, not technology (HBR/Accenture research)"
+    },
+    {
+      "date": "2026-10-14",
+      "voice": "broadcast",
+      "cta": "5-war-story",
+      "shape": "vulnerability",
+      "image_type": "statcard-quote",
+      "queued": true,
+      "topic": "Ivanti Connect Secure zero-day CVE-2026-104935 exploited since Oct 1 (Volexity UTA0576)"
     }
   ]
 }
