@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-09-14",
-      "voice": "none",
-      "cta": "1-peer-question",
-      "shape": "single-breach",
-      "image_type": "statcard-stat",
-      "queued": true,
-      "topic": "Passkey phishing hijacks Microsoft 365 tenants via OAuth device-code flow"
-    },
-    {
       "date": "2026-09-15",
       "voice": "none",
       "cta": "4-request",
@@ -269,6 +260,15 @@
       "image_type": "statcard-quote",
       "queued": true,
       "topic": "Ivanti Connect Secure zero-day CVE-2026-104935 exploited since Oct 1 (Volexity UTA0576)"
+    },
+    {
+      "date": "2026-10-15",
+      "voice": "army-aviation",
+      "cta": "2-prediction",
+      "shape": "other",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "Agent.BTZ USB breach: a junior officer flagged the drives, got dismissed (The Register / Justin Henkel)"
     }
   ]
 }
