@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-09-15",
-      "voice": "none",
-      "cta": "4-request",
-      "shape": "regulatory",
-      "image_type": "statcard-stat",
-      "queued": true,
-      "topic": "25 years of post-9/11 mass surveillance: CISO risk-register implications"
-    },
-    {
       "date": "2026-09-16",
       "voice": "none",
       "cta": "3-practical-challenge",
@@ -269,6 +260,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "Agent.BTZ USB breach: a junior officer flagged the drives, got dismissed (The Register / Justin Henkel)"
+    },
+    {
+      "date": "2026-10-16",
+      "voice": "technical-diving",
+      "cta": "3-practical-challenge",
+      "shape": "ai-risk",
+      "image_type": "statcard-quote",
+      "queued": true,
+      "topic": "Backdooring open-weight AI models: ProjectDiscovery PoC exfiltrates credentials via Codex CLI (via Schneier)"
     }
   ]
 }
