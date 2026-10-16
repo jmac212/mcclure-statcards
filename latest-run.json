@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-15",
-  "iso_timestamp": "2026-10-15T12:09:24.975281Z",
+  "date": "2026-10-16",
+  "iso_timestamp": "2026-10-16T12:10:00.998320Z",
   "status": "queued",
   "anchor": {
-    "topic": "Agent.BTZ USB breach: a junior officer flagged the drives, got dismissed (The Register / Justin Henkel)",
-    "source": "The Register",
-    "source_url": "https://www.theregister.com/security/2026/10/15/us-air-force-pilots-used-malware-laden-usb-drives-to-plan-afghanistan-missions/5303156",
-    "voice_marker": "army-aviation",
-    "cta_format": "2-prediction",
-    "shape": "other",
-    "image_type": "statcard-stat",
-    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/10/anchor-20261015-agent-btz-usb.png"
+    "topic": "Backdooring open-weight AI models: ProjectDiscovery PoC exfiltrates credentials via Codex CLI (via Schneier)",
+    "source": "Bruce Schneier's blog",
+    "source_url": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
+    "voice_marker": "technical-diving",
+    "cta_format": "3-practical-challenge",
+    "shape": "ai-risk",
+    "image_type": "statcard-quote",
+    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/10/anchor-20261016-ai-model-backdoor.png"
   },
   "runner_up": {
-    "topic": "AdFection: zero-click Candiru spyware delivered through Discover-Tech ads (Citizen Lab)",
+    "topic": "Proofpoint acquires Varonis for $6.3B \u2014 data security consolidation",
     "source": "CyberScoop",
-    "source_url": "https://cyberscoop.com/adfection-zero-click-spyware-discover-tech/",
+    "source_url": "https://cyberscoop.com/proofpoint-acquires-varonis-systems-data-security/",
     "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwxfHxkaWdpdGFsJTIwYWR2ZXJ0aXNpbmclMjBjb2RlfGVufDB8fHx8MTc5MjA2NjA1N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwxfHxkYXRhJTIwc2VjdXJpdHl8ZW58MHx8fHwxNzkyMTUyNTAyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "queue_depth": {
     "linkedin_days_out": 15.1,
