@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-09-17",
-      "voice": "army-aviation",
-      "cta": "2-prediction",
-      "shape": "other",
-      "image_type": "statcard-quote",
-      "queued": true,
-      "topic": "CISA publishes first cyber-decoy guidance for critical infrastructure"
-    },
-    {
       "date": "2026-09-18",
       "voice": "none",
       "cta": "none",
@@ -269,6 +260,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "BeyondTrust Remote Support zero-day (CVE-2026-102764) exploited by China-nexus Armory Castle since Aug 29"
+    },
+    {
+      "date": "2026-10-18",
+      "voice": "boating",
+      "cta": "1-peer-question",
+      "shape": "geopolitics",
+      "image_type": "statcard-quote",
+      "queued": true,
+      "topic": "AWS to disconnect European Sovereign Cloud from global backbone Oct 24 \u2014 resilience drill, sovereignty question still open"
     }
   ]
 }
