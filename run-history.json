@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-09-18",
-      "voice": "none",
-      "cta": "none",
-      "shape": "other",
-      "image_type": "text-only",
-      "queued": false,
-      "topic": "n/a \u2014 duplicate firing aborted"
-    },
-    {
       "date": "2026-09-19",
       "voice": "none",
       "cta": "5-war-story",
@@ -269,6 +260,15 @@
       "image_type": "statcard-quote",
       "queued": true,
       "topic": "AWS to disconnect European Sovereign Cloud from global backbone Oct 24 \u2014 resilience drill, sovereignty question still open"
+    },
+    {
+      "date": "2026-10-19",
+      "voice": "technical-diving",
+      "cta": "3-practical-challenge",
+      "shape": "synthesis",
+      "image_type": "statcard-quote",
+      "queued": true,
+      "topic": "ConnectWise Cloud Backup breach: attacker rode stolen M365 secret into customer tenants, service down since Oct 15"
     }
   ]
 }
