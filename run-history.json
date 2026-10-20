@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-09-19",
-      "voice": "none",
-      "cta": "5-war-story",
-      "shape": "ai-risk",
-      "image_type": "statcard-stat",
-      "queued": true,
-      "topic": "Bug hunters used Claude Opus 5 to hack OpenAI ChatGPT accounts"
-    },
-    {
       "date": "2026-09-21",
       "voice": "none",
       "cta": "none",
@@ -269,6 +260,15 @@
       "image_type": "statcard-quote",
       "queued": true,
       "topic": "ConnectWise Cloud Backup breach: attacker rode stolen M365 secret into customer tenants, service down since Oct 15"
+    },
+    {
+      "date": "2026-10-20",
+      "voice": "army-aviation",
+      "cta": "5-war-story",
+      "shape": "regulatory",
+      "image_type": "statcard-quote",
+      "queued": true,
+      "topic": "UK FCA wants firms to report AI failures AND near-misses, borrowing aviation"
     }
   ]
 }
