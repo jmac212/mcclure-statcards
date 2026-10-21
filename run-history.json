@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-09-21",
-      "voice": "none",
-      "cta": "none",
-      "shape": "other",
-      "image_type": "text-only",
-      "queued": false,
-      "topic": "n/a \u2014 duplicate firing aborted"
-    },
-    {
       "date": "2026-09-22",
       "voice": "broadcast-critical-infra",
       "cta": "1-peer-question",
@@ -269,6 +260,15 @@
       "image_type": "statcard-quote",
       "queued": true,
       "topic": "UK FCA wants firms to report AI failures AND near-misses, borrowing aviation"
+    },
+    {
+      "date": "2026-10-21",
+      "voice": "none",
+      "cta": "2-prediction",
+      "shape": "vulnerability",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "CISA adds 6 KEVs: 4 Plex Media Server, 1 Siemens Software Center, 1 EG SiteGuard (Oct 20)"
     }
   ]
 }
