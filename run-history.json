@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-09-25",
-      "voice": "none",
-      "cta": "4-request",
-      "shape": "synthesis",
-      "image_type": "statcard-stat",
-      "queued": true,
-      "topic": "Chinese-speaking operator uses three open-source AI agents (Hermes, Strix, Cairn) to breach 27+ companies including a Fortune 500 hospitality co and a major US airline for ~$18K over 5 days"
-    },
-    {
       "date": "2026-09-26",
       "voice": "technical-diving",
       "cta": "5-war-story",
@@ -269,6 +260,15 @@
       "image_type": "statcard-quote",
       "queued": true,
       "topic": "LiteLLM 1.107.0 PyPI supply-chain compromise via lookalike GitHub repo swap; payload fires on Python startup from .pth files, drains cloud/SSH/GPG/dev credentials"
+    },
+    {
+      "date": "2026-10-25",
+      "voice": "none",
+      "cta": "2-prediction",
+      "shape": "synthesis",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "Symantec unmasks 'Skynet mode' autonomous attack agent: 100k steps unsupervised, 74 offensive tools, hijacks exposed AI endpoints as its planning engine"
     }
   ]
 }
