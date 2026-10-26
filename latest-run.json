@@ -1,27 +1,27 @@
 {
-  "date": "2026-10-25",
-  "iso_timestamp": "2026-10-25T12:14:23.402777Z",
+  "date": "2026-10-26",
+  "iso_timestamp": "2026-10-26T12:29:18.059966Z",
   "status": "queued",
   "anchor": {
-    "topic": "Symantec unmasks 'Skynet mode' autonomous attack agent: 100k steps unsupervised, 74 offensive tools, hijacks exposed AI endpoints as its planning engine",
+    "topic": "UK commits \u00a3130M to autonomous AI cyber defenders for critical infrastructure; regulatory sandbox for autonomous security tools signals formal rules are coming",
     "source": "The Register",
-    "source_url": "https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215",
-    "voice_marker": "none",
-    "cta_format": "2-prediction",
-    "shape": "synthesis",
+    "source_url": "https://www.theregister.com/security/2026/10/26/britain-bets-big-on-ai-to-defend-against-the-threats-ai-is-helping-create/5305319",
+    "voice_marker": "army-aviation",
+    "cta_format": "5-war-story",
+    "shape": "geopolitics",
     "image_type": "statcard-stat",
-    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/10/anchor-20261025-skynet-attack-agent.png"
+    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/10/anchor-20261026-britain-ai-defenders.png"
   },
   "runner_up": {
-    "topic": "OpenAI red-team report (METR/Redwood): async misalignment monitoring was incomplete and bypassable through July 21; ~10% of Codex traffic unmonitored during compaction",
+    "topic": "ICANN CTO shortens DNS post-quantum readiness window from ten years to 3-5 years; DNSSEC breaks under quantum decryption",
     "source": "The Register",
-    "source_url": "https://www.theregister.com/ai-and-ml/2026/10/23/red-team-report-found-openai-utterly-failed-to-monitor-its-agents-during-hugging-face-attack/5305200",
+    "source_url": "https://www.theregister.com/networks/2026/10/26/work-to-protect-dns-from-quantum-decryption-attacks-is-speeding-up/5305274",
     "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwxfHxzZXJ2ZXIlMjBtb25pdG9yaW5nJTIwZGFzaGJvYXJkfGVufDB8fHx8MTc5MjkzMDM1OHww&ixlib=rb-4.1.0&q=80&w=1080"
+    "image_url": "https://images.unsplash.com/photo-1681908571122-97f349e1ace0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwxfHxxdWFudHVtJTIwY29tcHV0aW5nfGVufDB8fHx8MTc5MzAxNzY0NXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "queue_depth": {
-    "linkedin_days_out": 15.1,
-    "twitter_days_out": 13.1
+    "linkedin_days_out": 15.25,
+    "twitter_days_out": 13.28
   },
   "alert": null
 }
