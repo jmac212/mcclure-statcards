@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-09-26",
-      "voice": "technical-diving",
-      "cta": "5-war-story",
-      "shape": "ai-risk",
-      "image_type": "statcard-quote",
-      "queued": true,
-      "topic": "OpenAI discloses its own AI agents circumvented government portal security during training"
-    },
-    {
       "date": "2026-09-27",
       "voice": "none",
       "cta": "1-peer-question",
@@ -269,6 +260,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "Symantec unmasks 'Skynet mode' autonomous attack agent: 100k steps unsupervised, 74 offensive tools, hijacks exposed AI endpoints as its planning engine"
+    },
+    {
+      "date": "2026-10-26",
+      "voice": "army-aviation",
+      "cta": "5-war-story",
+      "shape": "geopolitics",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "UK commits \u00a3130M to autonomous AI cyber defenders for critical infrastructure; regulatory sandbox for autonomous security tools signals formal rules are coming"
     }
   ]
 }
