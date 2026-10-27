@@ -1,27 +1,27 @@
 {
-  "date": "2026-10-26",
-  "iso_timestamp": "2026-10-26T12:29:18.059966Z",
+  "date": "2026-10-27",
+  "iso_timestamp": "2026-10-27T12:14:32.227489Z",
   "status": "queued",
   "anchor": {
-    "topic": "UK commits \u00a3130M to autonomous AI cyber defenders for critical infrastructure; regulatory sandbox for autonomous security tools signals formal rules are coming",
-    "source": "The Register",
-    "source_url": "https://www.theregister.com/security/2026/10/26/britain-bets-big-on-ai-to-defend-against-the-threats-ai-is-helping-create/5305319",
-    "voice_marker": "army-aviation",
-    "cta_format": "5-war-story",
-    "shape": "geopolitics",
+    "topic": "CVE-2026-109618: PHP-CGI pointer underflow RCE at CVSS 9.2; same class as the 2019 FPM flaw, CGI SAPI never got the fix",
+    "source": "Full Disclosure (seclists.org)",
+    "source_url": "https://seclists.org/fulldisclosure/2026/Oct/38",
+    "voice_marker": "technical-diving",
+    "cta_format": "1-peer-question",
+    "shape": "vulnerability",
     "image_type": "statcard-stat",
-    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/10/anchor-20261026-britain-ai-defenders.png"
+    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/10/anchor-20261027-cve-2026-109618-phpcgi.png"
   },
   "runner_up": {
-    "topic": "ICANN CTO shortens DNS post-quantum readiness window from ten years to 3-5 years; DNSSEC breaks under quantum decryption",
-    "source": "The Register",
-    "source_url": "https://www.theregister.com/networks/2026/10/26/work-to-protect-dns-from-quantum-decryption-attacks-is-speeding-up/5305274",
+    "topic": "HBR: cyber resilience depends on social capital/trust, not more compliance; Verizon DBIR 62% human-element breaches flat for three years",
+    "source": "Harvard Business Review",
+    "source_url": "https://hbr.org/2026/10/to-build-effective-cyber-resilience-invest-in-trust",
     "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1681908571122-97f349e1ace0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwxfHxxdWFudHVtJTIwY29tcHV0aW5nfGVufDB8fHx8MTc5MzAxNzY0NXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "image_url": "https://images.unsplash.com/photo-1640030104754-0a33c686c533?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwxfHx0ZWFtJTIwdHJ1c3QlMjBjb2xsYWJvcmF0aW9uJTIwaGFuZHNoYWtlfGVufDB8fHx8MTc5MzEwMzE5M3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "queue_depth": {
-    "linkedin_days_out": 15.25,
-    "twitter_days_out": 13.28
+    "linkedin_days_out": 15.3,
+    "twitter_days_out": 13.2
   },
   "alert": null
 }
