@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-09-27",
-      "voice": "none",
-      "cta": "1-peer-question",
-      "shape": "other",
-      "image_type": "statcard-stat",
-      "queued": true,
-      "topic": "MCP servers bypass a decade of cloud security governance"
-    },
-    {
       "date": "2026-09-28",
       "voice": "broadcast",
       "cta": "3-practical-challenge",
@@ -269,6 +260,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "UK commits \u00a3130M to autonomous AI cyber defenders for critical infrastructure; regulatory sandbox for autonomous security tools signals formal rules are coming"
+    },
+    {
+      "date": "2026-10-27",
+      "voice": "technical-diving",
+      "cta": "1-peer-question",
+      "shape": "vulnerability",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "CVE-2026-109618: PHP-CGI pointer underflow RCE at CVSS 9.2; same class as the 2019 FPM flaw, CGI SAPI never got the fix"
     }
   ]
 }
