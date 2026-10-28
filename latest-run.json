@@ -1,27 +1,29 @@
 {
-  "date": "2026-10-27",
-  "iso_timestamp": "2026-10-27T12:14:32.227489Z",
+  "date": "2026-10-28",
+  "iso_timestamp": "2026-10-28T12:13:59.804269Z",
   "status": "queued",
   "anchor": {
-    "topic": "CVE-2026-109618: PHP-CGI pointer underflow RCE at CVSS 9.2; same class as the 2019 FPM flaw, CGI SAPI never got the fix",
-    "source": "Full Disclosure (seclists.org)",
-    "source_url": "https://seclists.org/fulldisclosure/2026/Oct/38",
-    "voice_marker": "technical-diving",
-    "cta_format": "1-peer-question",
-    "shape": "vulnerability",
+    "topic": "External Teams chat abuse: 15-min mail-bomb-to-malware chain (Black Basta-adjacent)",
+    "source": "Dark Reading",
+    "source_url": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
+    "voice_marker": "army-aviation",
+    "cta_format": "3-practical-challenge",
+    "shape": "other",
     "image_type": "statcard-stat",
-    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/10/anchor-20261027-cve-2026-109618-phpcgi.png"
+    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/10/anchor-20261028-teams-15min.png"
   },
   "runner_up": {
-    "topic": "HBR: cyber resilience depends on social capital/trust, not more compliance; Verizon DBIR 62% human-element breaches flat for three years",
+    "topic": "Restrictive cybersecurity policies backfire (HBR 6-experiment research)",
     "source": "Harvard Business Review",
-    "source_url": "https://hbr.org/2026/10/to-build-effective-cyber-resilience-invest-in-trust",
+    "source_url": "https://hbr.org/2026/10/why-restrictive-cybersecurity-policies-backfire",
     "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1640030104754-0a33c686c533?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwxfHx0ZWFtJTIwdHJ1c3QlMjBjb2xsYWJvcmF0aW9uJTIwaGFuZHNoYWtlfGVufDB8fHx8MTc5MzEwMzE5M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "image_url": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwxfHxjeWJlcnNlY3VyaXR5JTIwcG9saWN5JTIwb2ZmaWNlfGVufDB8fHx8MTc5MzE4OTU2Mnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "queue_depth": {
     "linkedin_days_out": 15.3,
-    "twitter_days_out": 13.2
+    "twitter_days_out": 13.3
   },
-  "alert": null
+  "alert": {
+    "reason": "all shapes and CTAs banned from last-5 window; picked least-recently-used (shape=other, cta=3-practical-challenge)"
+  }
 }
