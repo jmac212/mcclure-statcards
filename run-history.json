@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-09-28",
-      "voice": "broadcast",
-      "cta": "3-practical-challenge",
-      "shape": "leadership-tied",
-      "image_type": "statcard-stat",
-      "queued": true,
-      "topic": "CISO-CFO alignment: the room only 47% of security leaders get into"
-    },
-    {
       "date": "2026-09-29",
       "voice": "army-aviation",
       "cta": "4-request",
@@ -269,6 +260,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "CVE-2026-109618: PHP-CGI pointer underflow RCE at CVSS 9.2; same class as the 2019 FPM flaw, CGI SAPI never got the fix"
+    },
+    {
+      "date": "2026-10-28",
+      "voice": "army-aviation",
+      "cta": "3-practical-challenge",
+      "shape": "other",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "External Teams chat abuse: 15-min mail-bomb-to-malware chain (Black Basta-adjacent)"
     }
   ]
 }
