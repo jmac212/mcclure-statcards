@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-09-29",
-      "voice": "army-aviation",
-      "cta": "4-request",
-      "shape": "single-breach",
-      "image_type": "statcard-stat",
-      "queued": true,
-      "topic": "Storm-3168 hijacks Azure service principals from leaked GitHub secrets, destroys 100+ storage accounts"
-    },
-    {
       "date": "2026-09-30",
       "voice": "none",
       "cta": "2-prediction",
@@ -269,6 +260,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "External Teams chat abuse: 15-min mail-bomb-to-malware chain (Black Basta-adjacent)"
+    },
+    {
+      "date": "2026-10-29",
+      "voice": "technical-diving",
+      "cta": "2-prediction",
+      "shape": "ai-risk",
+      "image_type": "statcard-quote",
+      "queued": true,
+      "topic": "Shadow AI relay installs genuine Codex/Claude Code CLIs then disables sandboxes"
     }
   ]
 }
