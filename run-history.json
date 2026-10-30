@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-09-30",
-      "voice": "none",
-      "cta": "2-prediction",
-      "shape": "vulnerability",
-      "image_type": "statcard-stat",
-      "queued": true,
-      "topic": "CVE-2026-86950 Apple CoreGraphics zero-day weaponized in targeted attacks"
-    },
-    {
       "date": "2026-10-01",
       "voice": "army-aviation",
       "cta": "1-peer-question",
@@ -269,6 +260,15 @@
       "image_type": "statcard-quote",
       "queued": true,
       "topic": "Shadow AI relay installs genuine Codex/Claude Code CLIs then disables sandboxes"
+    },
+    {
+      "date": "2026-10-30",
+      "voice": "none",
+      "cta": "4-request",
+      "shape": "single-breach",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "DHS Icepick leak: 41,000 employee identities, takedown as workflow"
     }
   ]
 }
