@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-10-01",
-      "voice": "army-aviation",
-      "cta": "1-peer-question",
-      "shape": "geopolitics",
-      "image_type": "statcard-quote",
-      "queued": true,
-      "topic": "China-linked TA419 phishes AI policy experts posing as former US officials and an Anthropic staffer"
-    },
-    {
       "date": "2026-10-02",
       "voice": "technical-diving",
       "cta": "5-war-story",
@@ -269,6 +260,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "DHS Icepick leak: 41,000 employee identities, takedown as workflow"
+    },
+    {
+      "date": "2026-10-31",
+      "voice": "none",
+      "cta": "3-practical-challenge",
+      "shape": "synthesis",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "China's Vapor Panda compromises 140 sensitive targets in 11 days using agentic AI (ARTEX framework)"
     }
   ]
 }
