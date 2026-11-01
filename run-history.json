@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-10-02",
-      "voice": "technical-diving",
-      "cta": "5-war-story",
-      "shape": "synthesis",
-      "image_type": "statcard-stat",
-      "queued": true,
-      "topic": "Microsoft 2026 Digital Defense Report: govt now 27% of threat activity, Storm-3168 agentic Azure attacks"
-    },
-    {
       "date": "2026-10-03",
       "voice": "army-aviation",
       "cta": "2-prediction",
@@ -269,6 +260,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "China's Vapor Panda compromises 140 sensitive targets in 11 days using agentic AI (ARTEX framework)"
+    },
+    {
+      "date": "2026-11-01",
+      "voice": "army-aviation",
+      "cta": "2-prediction",
+      "shape": "geopolitics",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "Operation Blackout: public-private takedown of West Africa scam networks"
     }
   ]
 }
