@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-10-03",
-      "voice": "army-aviation",
-      "cta": "2-prediction",
-      "shape": "regulatory",
-      "image_type": "statcard-quote",
-      "queued": true,
-      "topic": "Legal liability for agentic AI hacks (CFAA gap, FTC/legislation)"
-    },
-    {
       "date": "2026-10-04",
       "voice": "none",
       "cta": "3-practical-challenge",
@@ -269,6 +260,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "Operation Blackout: public-private takedown of West Africa scam networks"
+    },
+    {
+      "date": "2026-11-02",
+      "voice": "broadcast",
+      "cta": "5-war-story",
+      "shape": "vulnerability",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "Apache Struts2 OGNL Sandbox Escape (public PoC, no patch)"
     }
   ]
 }
