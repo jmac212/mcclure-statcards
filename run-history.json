@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-10-06",
-      "voice": "none",
-      "cta": "1-peer-question",
-      "shape": "vulnerability",
-      "image_type": "statcard-stat",
-      "queued": true,
-      "topic": "Citrix NetScaler third actively exploited zero-day in under a week (CVE-2026-88779)"
-    },
-    {
       "date": "2026-10-07",
       "voice": "army-aviation",
       "cta": "3-practical-challenge",
@@ -269,6 +260,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "Binance $6.34B DPRK theft via fake recruiter + internal AI tool pivot"
+    },
+    {
+      "date": "2026-11-05",
+      "voice": "none",
+      "cta": "4-request",
+      "shape": "single-breach",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "Storm-2603 fileless SharePoint breach via ToolShell (CVE-2025-53770)"
     }
   ]
 }
