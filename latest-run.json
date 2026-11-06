@@ -1,23 +1,23 @@
 {
-  "date": "2026-11-05",
-  "iso_timestamp": "2026-11-05T12:12:06.030531Z",
+  "date": "2026-11-06",
+  "iso_timestamp": "2026-11-06T12:13:23.199944Z",
   "status": "queued",
   "anchor": {
-    "topic": "Storm-2603 fileless SharePoint breach via ToolShell (CVE-2025-53770)",
-    "source": "Securelist (Kaspersky)",
-    "source_url": "https://securelist.com/storm-2603-fileless-toolshell-attack/121467/",
-    "voice_marker": "none",
-    "cta_format": "4-request",
-    "shape": "single-breach",
+    "topic": "FBI/CISA joint advisory on grocer freezer hacking spree \u2014 exposed OT",
+    "source": "The Register",
+    "source_url": "https://www.theregister.com/security/2026/11/05/feds-warn-grocers-dont-chill-on-cyber-defenses-as-freezer-hacking-spree-heats-up/5307978",
+    "voice_marker": "broadcast",
+    "cta_format": "3-practical-challenge",
+    "shape": "leadership-tied",
     "image_type": "statcard-stat",
-    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/11/anchor-20261105-storm-2603-fileless.png"
+    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/11/anchor-20261106-feds-freezer.png"
   },
   "runner_up": {
-    "topic": "Norad (Norway's aid agency) breach: 20,614 user records stolen via 27 compromised accounts",
-    "source": "The Register",
-    "source_url": "https://www.theregister.com/cyber-crime/2026/11/05/norways-aid-agency-pwned-and-all-users-data-is-stolen/5307765",
+    "topic": "Microsoft: ARTEX agentic AI framework abusing exposed GitHub secrets",
+    "source": "Microsoft Security Blog",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/",
     "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1585079374502-415f8516dcc3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHw5fHxkaWdpdGFsJTIwaWRlbnRpdHklMjBzZWN1cml0eXxlbnwwfHx8fDE3OTM4ODA2Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "image_url": "https://images.unsplash.com/photo-1667372283496-893f0b1e7c16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=1080"
   },
   "queue_depth": {
     "linkedin_days_out": 16.0,
