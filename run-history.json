@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-10-07",
-      "voice": "army-aviation",
-      "cta": "3-practical-challenge",
-      "shape": "leadership-tied",
-      "image_type": "statcard-quote",
-      "queued": true,
-      "topic": "AI reshaping CISO budgets and the collapsing analyst pipeline"
-    },
-    {
       "date": "2026-10-08",
       "voice": "broadcast",
       "cta": "5-war-story",
@@ -269,6 +260,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "Storm-2603 fileless SharePoint breach via ToolShell (CVE-2025-53770)"
+    },
+    {
+      "date": "2026-11-06",
+      "voice": "broadcast",
+      "cta": "3-practical-challenge",
+      "shape": "leadership-tied",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "FBI/CISA joint advisory on grocer freezer hacking spree \u2014 exposed OT"
     }
   ]
 }
