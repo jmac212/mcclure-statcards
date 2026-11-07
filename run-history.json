@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-10-08",
-      "voice": "broadcast",
-      "cta": "5-war-story",
-      "shape": "geopolitics",
-      "image_type": "statcard-quote",
-      "queued": true,
-      "topic": "UK/Germany cyber-pact against Russian hybrid ops"
-    },
-    {
       "date": "2026-10-09",
       "voice": "technical-diving",
       "cta": "2-prediction",
@@ -269,6 +260,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "FBI/CISA joint advisory on grocer freezer hacking spree \u2014 exposed OT"
+    },
+    {
+      "date": "2026-11-07",
+      "voice": "technical-diving",
+      "cta": "2-prediction",
+      "shape": "geopolitics",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "UK $800M cyber + AI sovereignty push after Anthropic export freeze"
     }
   ]
 }
