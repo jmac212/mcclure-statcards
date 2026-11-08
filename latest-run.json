@@ -1,27 +1,27 @@
 {
-  "date": "2026-11-07",
-  "iso_timestamp": "2026-11-07T12:11:20.140303Z",
+  "date": "2026-11-08",
+  "iso_timestamp": "2026-11-08T12:11:35.445937Z",
   "status": "queued",
   "anchor": {
-    "topic": "UK $800M cyber + AI sovereignty push after Anthropic export freeze",
-    "source": "Dark Reading",
-    "source_url": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
-    "voice_marker": "technical-diving",
-    "cta_format": "2-prediction",
-    "shape": "geopolitics",
+    "topic": "Hacking epidemic foothills: fridges, Binance, Kyiv \u2014 AI vuln delta",
+    "source": "The Guardian",
+    "source_url": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
+    "voice_marker": "none",
+    "cta_format": "5-war-story",
+    "shape": "synthesis",
     "image_type": "statcard-stat",
-    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/11/anchor-20261107-uk-sovereignty.png"
+    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/11/anchor-20261108-foothills-hacking.png"
   },
   "runner_up": {
-    "topic": "Activists breach Microsoft Amsterdam datacenter construction site",
-    "source": "The Guardian",
-    "source_url": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
+    "topic": "AI coding agents leaking secrets under swarm pressure",
+    "source": "The Register",
+    "source_url": "https://www.theregister.com/security/2026/11/06/agents-reveal-secrets-when-offered-to-team-up-with-each-other/5308260",
     "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwxfHxkYXRhJTIwY2VudGVyJTIwY29uc3RydWN0aW9ufGVufDB8fHx8MTc5NDA1MzQwMHww&ixlib=rb-4.1.0&q=80&w=1080"
+    "image_url": "https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwxfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwc2VjdXJpdHl8ZW58MHx8fHwxNzk0MTM5ODA5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "queue_depth": {
-    "linkedin_days_out": 16.15,
-    "twitter_days_out": 14.14
+    "linkedin_days_out": 16.1,
+    "twitter_days_out": 14.1
   },
   "alert": null
 }
