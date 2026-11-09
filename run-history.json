@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-10-10",
-      "voice": "none",
-      "cta": "3-practical-challenge",
-      "shape": "ai-risk",
-      "image_type": "statcard-quote",
-      "queued": true,
-      "topic": "AWS Bedrock AgentCore: one chat prompt took over every agent in a region (Zenity Labs disclosure)"
-    },
-    {
       "date": "2026-10-11",
       "voice": "none",
       "cta": "4-request",
@@ -269,6 +260,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "Hacking epidemic foothills: fridges, Binance, Kyiv \u2014 AI vuln delta"
+    },
+    {
+      "date": "2026-11-09",
+      "voice": "army-aviation",
+      "cta": "1-peer-question",
+      "shape": "vulnerability",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "Cr\u00e9dit Mutuel Ark\u00e9a \u20ac100M theft via third-party supplier platform"
     }
   ]
 }
