@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-10-12",
-      "voice": "none",
-      "cta": "1-peer-question",
-      "shape": "synthesis",
-      "image_type": "statcard-quote",
-      "queued": true,
-      "topic": "AI agent supply chain is the new attack surface (ReversingLabs synthesis)"
-    },
-    {
       "date": "2026-10-13",
       "voice": "army-aviation",
       "cta": "3-practical-challenge",
@@ -269,6 +260,15 @@
       "image_type": "statcard-quote",
       "queued": true,
       "topic": "Trump picks Palantir CISO LoSapio to lead CISA"
+    },
+    {
+      "date": "2026-11-11",
+      "voice": "none",
+      "cta": "2-prediction",
+      "shape": "ai-risk",
+      "image_type": "statcard-quote",
+      "queued": true,
+      "topic": "Citrus Ransomware uses LLM-generated PowerShell against enterprise victims"
     }
   ]
 }
