@@ -1,27 +1,27 @@
 {
-  "date": "2026-11-10",
-  "iso_timestamp": "2026-11-10T12:13:35.203424Z",
+  "date": "2026-11-11",
+  "iso_timestamp": "2026-11-11T12:13:40.675384Z",
   "status": "queued",
   "anchor": {
-    "topic": "Trump picks Palantir CISO LoSapio to lead CISA",
-    "source": "CyberScoop",
-    "source_url": "https://cyberscoop.com/trump-picks-palantirs-losapio-to-head-cisa/",
-    "voice_marker": "technical-diving",
-    "cta_format": "4-request",
-    "shape": "regulatory",
+    "topic": "Citrus Ransomware uses LLM-generated PowerShell against enterprise victims",
+    "source": "Securelist (Kaspersky)",
+    "source_url": "https://securelist.com/citrus-ransomware/121879/",
+    "voice_marker": "none",
+    "cta_format": "2-prediction",
+    "shape": "ai-risk",
     "image_type": "statcard-quote",
-    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/11/anchor-20261110-cisa-vendor-neutral.png"
+    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/11/anchor-20261111-citrus-llm-ransomware.png"
   },
   "runner_up": {
-    "topic": "Anthropic Mythos ships in Cisco AI Defense + IBM Concert",
-    "source": "The Register",
-    "source_url": "https://www.theregister.com/ai-and-ml/2026/11/10/anthropics-super-bug-finding-mythos-model-is-going-into-cisco-and-ibm-products/5308616",
+    "topic": "SSHole CVE-2026-123158 bypasses OpenSSH auth on Alpine/musl",
+    "source": "Hackread",
+    "source_url": "https://hackread.com/hackers-exploit-old-openssh-bypass-linux-logins/",
     "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwxfHxzb3VyY2UlMjBjb2RlJTIwcmV2aWV3fGVufDB8fHx8MTc5NDMxMjczOHww&ixlib=rb-4.1.0&q=80&w=1080"
+    "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwxfHxsaW51eCUyMHNlcnZlciUyMHJhY2t8ZW58MHx8fHwxNzk0Mzk5MTM3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "queue_depth": {
-    "linkedin_days_out": 16.3,
-    "twitter_days_out": 14.1
+    "linkedin_days_out": 16.2,
+    "twitter_days_out": 13.3
   },
   "alert": null
 }
