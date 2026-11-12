@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-10-13",
-      "voice": "army-aviation",
-      "cta": "3-practical-challenge",
-      "shape": "leadership-tied",
-      "image_type": "statcard-quote",
-      "queued": true,
-      "topic": "The first 24 hours of a breach is about decision rights, not technology (HBR/Accenture research)"
-    },
-    {
       "date": "2026-10-14",
       "voice": "broadcast",
       "cta": "5-war-story",
@@ -269,6 +260,15 @@
       "image_type": "statcard-quote",
       "queued": true,
       "topic": "Citrus Ransomware uses LLM-generated PowerShell against enterprise victims"
+    },
+    {
+      "date": "2026-11-12",
+      "voice": "army-aviation",
+      "cta": "3-practical-challenge",
+      "shape": "leadership-tied",
+      "image_type": "statcard-quote",
+      "queued": true,
+      "topic": "CISO technical-depth debate \u2014 leading with credibility, not jargon"
     }
   ]
 }
