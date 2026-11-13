@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-10-14",
-      "voice": "broadcast",
-      "cta": "5-war-story",
-      "shape": "vulnerability",
-      "image_type": "statcard-quote",
-      "queued": true,
-      "topic": "Ivanti Connect Secure zero-day CVE-2026-104935 exploited since Oct 1 (Volexity UTA0576)"
-    },
-    {
       "date": "2026-10-15",
       "voice": "army-aviation",
       "cta": "2-prediction",
@@ -269,6 +260,15 @@
       "image_type": "statcard-quote",
       "queued": true,
       "topic": "CISO technical-depth debate \u2014 leading with credibility, not jargon"
+    },
+    {
+      "date": "2026-11-13",
+      "voice": "broadcast",
+      "cta": "1-peer-question",
+      "shape": "other",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "BlackNevas destroys a virtualization estate without a single CVE"
     }
   ]
 }
