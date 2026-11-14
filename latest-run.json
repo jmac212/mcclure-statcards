@@ -1,27 +1,27 @@
 {
-  "date": "2026-11-13",
-  "iso_timestamp": "2026-11-13T12:13:39.415278Z",
+  "date": "2026-11-14",
+  "iso_timestamp": "2026-11-14T12:11:50.659877Z",
   "status": "queued",
   "anchor": {
-    "topic": "BlackNevas destroys a virtualization estate without a single CVE",
-    "source": "Kaspersky Securelist",
-    "source_url": "https://securelist.com/esxi-ransomware/121959/",
-    "voice_marker": "broadcast",
-    "cta_format": "1-peer-question",
-    "shape": "other",
+    "topic": "FBI disrupts North Korean 00M FaceStealer crypto theft",
+    "source": "hackread.com",
+    "source_url": "https://hackread.com/fbi-disrupts-north-korean-facestealer-crypto-theft/",
+    "voice_marker": "none",
+    "cta_format": "5-war-story",
+    "shape": "geopolitics",
     "image_type": "statcard-stat",
-    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/11/anchor-20261113-esxi-blacknevas.png"
+    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/11/anchor-20261114-dprk-facestealer.png"
   },
   "runner_up": {
-    "topic": "UK ICO puts 200+ NHS CEOs on notice over medical record snooping",
-    "source": "The Register",
-    "source_url": "https://www.theregister.com/security/2026/11/13/crackdown-on-uk-medical-record-snooping-after-staff-reported-sneaking-300-times-this-year/5309421",
+    "topic": "HBR: The Market Is Mispricing Resilience",
+    "source": "Harvard Business Review",
+    "source_url": "https://hbr.org/2026/11/the-market-is-mispricing-resilience",
     "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1576091160550-2173dba999ef"
+    "image_url": "https://images.unsplash.com/photo-1683322499436-f4383dd59f5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwxfHxjcml0aWNhbCUyMGluZnJhc3RydWN0dXJlfGVufDB8fHx8MTc5NDY1ODIzNXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "queue_depth": {
     "linkedin_days_out": 17.3,
-    "twitter_days_out": 14.25
+    "twitter_days_out": 14.4
   },
   "alert": null
 }
