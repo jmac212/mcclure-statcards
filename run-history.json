@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-10-15",
-      "voice": "army-aviation",
-      "cta": "2-prediction",
-      "shape": "other",
-      "image_type": "statcard-stat",
-      "queued": true,
-      "topic": "Agent.BTZ USB breach: a junior officer flagged the drives, got dismissed (The Register / Justin Henkel)"
-    },
-    {
       "date": "2026-10-16",
       "voice": "technical-diving",
       "cta": "3-practical-challenge",
@@ -269,6 +260,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "BlackNevas destroys a virtualization estate without a single CVE"
+    },
+    {
+      "date": "2026-11-14",
+      "voice": "none",
+      "cta": "5-war-story",
+      "shape": "geopolitics",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "FBI disrupts North Korean 00M FaceStealer crypto theft"
     }
   ]
 }
