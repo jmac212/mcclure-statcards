@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-10-17",
-      "voice": "none",
-      "cta": "4-request",
-      "shape": "single-breach",
-      "image_type": "statcard-stat",
-      "queued": true,
-      "topic": "BeyondTrust Remote Support zero-day (CVE-2026-102764) exploited by China-nexus Armory Castle since Aug 29"
-    },
-    {
       "date": "2026-10-18",
       "voice": "boating",
       "cta": "1-peer-question",
@@ -269,6 +260,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "CISA adds two actively-exploited CVEs to KEV (Check Point + UnrealIRCd)"
+    },
+    {
+      "date": "2026-11-16",
+      "voice": "army-aviation",
+      "cta": "4-request",
+      "shape": "single-breach",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "Retadup USB worm's C2 revived, now delivering CoffeeLoader"
     }
   ]
 }
