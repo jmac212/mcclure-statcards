@@ -1,23 +1,23 @@
 {
-  "date": "2026-11-16",
-  "iso_timestamp": "2026-11-16T12:13:14.638905Z",
+  "date": "2026-11-17",
+  "iso_timestamp": "2026-11-17T12:12:22.281287Z",
   "status": "queued",
   "anchor": {
-    "topic": "Retadup USB worm's C2 revived, now delivering CoffeeLoader",
-    "source": "Kaspersky Securelist",
-    "source_url": "https://securelist.com/retadup-delivers-coffeeloader/121908/",
-    "voice_marker": "army-aviation",
-    "cta_format": "4-request",
-    "shape": "single-breach",
-    "image_type": "statcard-stat",
-    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/11/anchor-20261116-retadup-return.png"
+    "topic": "California AG sues OpenAI over agentic AI hacking spree",
+    "source": "CyberScoop",
+    "source_url": "https://cyberscoop.com/california-ag-rob-bonta-sues-openai/",
+    "voice_marker": "technical-diving",
+    "cta_format": "2-prediction",
+    "shape": "ai-risk",
+    "image_type": "statcard-quote",
+    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/11/anchor-20261117-openai-agentic-lawsuit.png"
   },
   "runner_up": {
-    "topic": "Boards and internal misconduct: controls arent enough",
-    "source": "Harvard Business Review",
-    "source_url": "https://hbr.org/2026/11/how-boards-detect-and-prevent-internal-misconduct",
+    "topic": "Google Project Zero slashes disclosure deadlines to 30 days",
+    "source": "Dark Reading",
+    "source_url": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
     "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1571624436279-b272aff752b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwxfHxib2FyZHJvb20lMjB0YWJsZXxlbnwwfHx8fDE3OTQ4MzExMTV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "image_url": "https://images.unsplash.com/photo-1504197832061-98356e3dcdcf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwxfHxjeWJlcnNlY3VyaXR5JTIwY291bnRkb3duJTIwY2xvY2t8ZW58MHx8fHwxNzk0OTE3NDUyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "queue_depth": {
     "linkedin_days_out": 18.1,
