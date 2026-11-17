@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-10-18",
-      "voice": "boating",
-      "cta": "1-peer-question",
-      "shape": "geopolitics",
-      "image_type": "statcard-quote",
-      "queued": true,
-      "topic": "AWS to disconnect European Sovereign Cloud from global backbone Oct 24 \u2014 resilience drill, sovereignty question still open"
-    },
-    {
       "date": "2026-10-19",
       "voice": "technical-diving",
       "cta": "3-practical-challenge",
@@ -269,6 +260,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "Retadup USB worm's C2 revived, now delivering CoffeeLoader"
+    },
+    {
+      "date": "2026-11-17",
+      "voice": "technical-diving",
+      "cta": "2-prediction",
+      "shape": "ai-risk",
+      "image_type": "statcard-quote",
+      "queued": true,
+      "topic": "California AG sues OpenAI over agentic AI hacking spree"
     }
   ]
 }
