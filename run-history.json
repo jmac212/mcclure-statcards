@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-10-19",
-      "voice": "technical-diving",
-      "cta": "3-practical-challenge",
-      "shape": "synthesis",
-      "image_type": "statcard-quote",
-      "queued": true,
-      "topic": "ConnectWise Cloud Backup breach: attacker rode stolen M365 secret into customer tenants, service down since Oct 15"
-    },
-    {
       "date": "2026-10-20",
       "voice": "army-aviation",
       "cta": "5-war-story",
@@ -269,6 +260,15 @@
       "image_type": "statcard-quote",
       "queued": true,
       "topic": "California AG sues OpenAI over agentic AI hacking spree"
+    },
+    {
+      "date": "2026-11-18",
+      "voice": "broadcast",
+      "cta": "3-practical-challenge",
+      "shape": "synthesis",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "Optimizely A/B platform compromised, 178 top sites served malware"
     }
   ]
 }
