@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-10-20",
-      "voice": "army-aviation",
-      "cta": "5-war-story",
-      "shape": "regulatory",
-      "image_type": "statcard-quote",
-      "queued": true,
-      "topic": "UK FCA wants firms to report AI failures AND near-misses, borrowing aviation"
-    },
-    {
       "date": "2026-10-21",
       "voice": "none",
       "cta": "2-prediction",
@@ -269,6 +260,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "Optimizely A/B platform compromised, 178 top sites served malware"
+    },
+    {
+      "date": "2026-11-19",
+      "voice": "none",
+      "cta": "1-peer-question",
+      "shape": "other",
+      "image_type": "statcard-quote",
+      "queued": true,
+      "topic": "Russia Cold Relic APT turns one cloud breach into trusted-partner attack"
     }
   ]
 }
