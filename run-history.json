@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-10-21",
-      "voice": "none",
-      "cta": "2-prediction",
-      "shape": "vulnerability",
-      "image_type": "statcard-stat",
-      "queued": true,
-      "topic": "CISA adds 6 KEVs: 4 Plex Media Server, 1 Siemens Software Center, 1 EG SiteGuard (Oct 20)"
-    },
-    {
       "date": "2026-10-22",
       "voice": "none",
       "cta": "1-peer-question",
@@ -269,6 +260,15 @@
       "image_type": "statcard-quote",
       "queued": true,
       "topic": "Russia Cold Relic APT turns one cloud breach into trusted-partner attack"
+    },
+    {
+      "date": "2026-11-20",
+      "voice": "army-aviation",
+      "cta": "5-war-story",
+      "shape": "regulatory",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "National Cyber Director Sean Cairncross out; federal cyber leadership vacuum"
     }
   ]
 }
