@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-10-23",
-      "voice": "army-aviation",
-      "cta": "3-practical-challenge",
-      "shape": "leadership-tied",
-      "image_type": "statcard-quote",
-      "queued": true,
-      "topic": "Torvalds draws line on AI drive-by patches to the Linux kernel; CISO analog for AI-assisted commits in enterprise repos"
-    },
-    {
       "date": "2026-10-24",
       "voice": "none",
       "cta": "4-request",
@@ -269,6 +260,15 @@
       "image_type": "statcard-quote",
       "queued": true,
       "topic": "ARMORY CASTLE exploits VMware vCenter zero-day CVE-2026-123890 (Golden SAML)"
+    },
+    {
+      "date": "2026-11-22",
+      "voice": "none",
+      "cta": "4-request",
+      "shape": "single-breach",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "FBI investigating apparent hack of NCIC database"
     }
   ]
 }
