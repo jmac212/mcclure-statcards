@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-10-24",
-      "voice": "none",
-      "cta": "4-request",
-      "shape": "single-breach",
-      "image_type": "statcard-quote",
-      "queued": true,
-      "topic": "LiteLLM 1.107.0 PyPI supply-chain compromise via lookalike GitHub repo swap; payload fires on Python startup from .pth files, drains cloud/SSH/GPG/dev credentials"
-    },
-    {
       "date": "2026-10-25",
       "voice": "none",
       "cta": "2-prediction",
@@ -269,6 +260,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "FBI investigating apparent hack of NCIC database"
+    },
+    {
+      "date": "2026-11-23",
+      "voice": "none",
+      "cta": "2-prediction",
+      "shape": "ai-risk",
+      "image_type": "statcard-quote",
+      "queued": true,
+      "topic": "AI-assisted vuln discovery: non-expert found CVSS 8.8 WordPress plugin bug in 6 hours"
     }
   ]
 }
