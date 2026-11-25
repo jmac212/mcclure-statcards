@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-10-26",
-      "voice": "army-aviation",
-      "cta": "5-war-story",
-      "shape": "geopolitics",
-      "image_type": "statcard-stat",
-      "queued": true,
-      "topic": "UK commits \u00a3130M to autonomous AI cyber defenders for critical infrastructure; regulatory sandbox for autonomous security tools signals formal rules are coming"
-    },
-    {
       "date": "2026-10-27",
       "voice": "technical-diving",
       "cta": "1-peer-question",
@@ -269,6 +260,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "Cisco + OpenAI release Shirudo: eBPF compensating controls for the patchpocalypse"
+    },
+    {
+      "date": "2026-11-25",
+      "voice": "army-aviation",
+      "cta": "1-peer-question",
+      "shape": "leadership-tied",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "Cyber insurance AI divide \u2014 haves vs. have-nots and the end of underwriting-only"
     }
   ]
 }
