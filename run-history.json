@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-10-27",
-      "voice": "technical-diving",
-      "cta": "1-peer-question",
-      "shape": "vulnerability",
-      "image_type": "statcard-stat",
-      "queued": true,
-      "topic": "CVE-2026-109618: PHP-CGI pointer underflow RCE at CVSS 9.2; same class as the 2019 FPM flaw, CGI SAPI never got the fix"
-    },
-    {
       "date": "2026-10-28",
       "voice": "army-aviation",
       "cta": "3-practical-challenge",
@@ -269,6 +260,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "Cyber insurance AI divide \u2014 haves vs. have-nots and the end of underwriting-only"
+    },
+    {
+      "date": "2026-11-26",
+      "voice": "broadcast",
+      "cta": "5-war-story",
+      "shape": "regulatory",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "CISA KEV +10 \u2014 5 Mitel MiCollab CVEs in a single day"
     }
   ]
 }
