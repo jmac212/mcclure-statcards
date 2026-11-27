@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-10-28",
-      "voice": "army-aviation",
-      "cta": "3-practical-challenge",
-      "shape": "other",
-      "image_type": "statcard-stat",
-      "queued": true,
-      "topic": "External Teams chat abuse: 15-min mail-bomb-to-malware chain (Black Basta-adjacent)"
-    },
-    {
       "date": "2026-10-29",
       "voice": "technical-diving",
       "cta": "2-prediction",
@@ -269,6 +260,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "CISA KEV +10 \u2014 5 Mitel MiCollab CVEs in a single day"
+    },
+    {
+      "date": "2026-11-27",
+      "voice": "none",
+      "cta": "3-practical-challenge",
+      "shape": "geopolitics",
+      "image_type": "statcard-stat",
+      "queued": true,
+      "topic": "Microsoft ARTEX: China & N Korea nation-state crews using open-source agentic AI framework to reach privileged access in minutes"
     }
   ]
 }
