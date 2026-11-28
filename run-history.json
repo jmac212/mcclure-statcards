@@ -1,15 +1,6 @@
 {
   "history": [
     {
-      "date": "2026-10-29",
-      "voice": "technical-diving",
-      "cta": "2-prediction",
-      "shape": "ai-risk",
-      "image_type": "statcard-quote",
-      "queued": true,
-      "topic": "Shadow AI relay installs genuine Codex/Claude Code CLIs then disables sandboxes"
-    },
-    {
       "date": "2026-10-30",
       "voice": "none",
       "cta": "4-request",
@@ -269,6 +260,15 @@
       "image_type": "statcard-stat",
       "queued": true,
       "topic": "Microsoft ARTEX: China & N Korea nation-state crews using open-source agentic AI framework to reach privileged access in minutes"
+    },
+    {
+      "date": "2026-11-28",
+      "voice": "army-aviation",
+      "cta": "4-request",
+      "shape": "single-breach",
+      "image_type": "unsplash",
+      "queued": true,
+      "topic": "US Air Force Cloud One breach \u2014 attackers reached the platform control plane"
     }
   ]
 }
