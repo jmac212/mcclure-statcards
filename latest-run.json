@@ -1,27 +1,27 @@
 {
-  "date": "2026-11-27",
-  "iso_timestamp": "2026-11-27T12:11:10.912798Z",
+  "date": "2026-11-28",
+  "iso_timestamp": "2026-11-28T12:14:22.047655Z",
   "status": "queued",
   "anchor": {
-    "topic": "Microsoft ARTEX: China & N Korea nation-state crews using open-source agentic AI framework to reach privileged access in minutes",
-    "source": "The Register",
-    "source_url": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433",
-    "voice_marker": "none",
-    "cta_format": "3-practical-challenge",
-    "shape": "geopolitics",
-    "image_type": "statcard-stat",
-    "image_url": "https://raw.githubusercontent.com/jmac212/mcclure-statcards/main/statcards/2026/11/anchor-20261127-artex-nation-state.png"
+    "topic": "US Air Force Cloud One breach \u2014 attackers reached the platform control plane",
+    "source": "Security Affairs (via Reuters)",
+    "source_url": "https://securityaffairs.com/204136/security/air-force-cloud-one-breach-updates-blocked-migration-paused-scope-unknown.html",
+    "voice_marker": "army-aviation",
+    "cta_format": "4-request",
+    "shape": "single-breach",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1667984390538-3dea7a3fe33d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwxfHxtaWxpdGFyeSUyMGNsb3VkJTIwY29tcHV0aW5nfGVufDB8fHx8MTc5NTg2NzkzNHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "runner_up": {
-    "topic": "UK DWP takes services offline after cyber incident; NCSC + GC3 engaged, pensions still paying",
-    "source": "The Register",
-    "source_url": "https://www.theregister.com/security/2026/11/27/british-social-security-system-techies-yank-services-offline-following-cyber-incident/5312522",
+    "topic": "CISA KEV +3 \u2014 two GeoServer CVEs and a Drupal Core bug added",
+    "source": "CISA",
+    "source_url": "https://www.cisa.gov/news-events/alerts/2026/11/27/cisa-adds-three-known-exploited-vulnerabilities-catalog",
     "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1486299267070-83823f5448dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+    "image_url": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjQzOTJ8MHwxfHNlYXJjaHwxfHxzb2Z0d2FyZSUyMHZ1bG5lcmFiaWxpdHklMjBjb2RlfGVufDB8fHx8MTc5NTg2Nzk1Mnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "queue_depth": {
     "linkedin_days_out": 18.3,
-    "twitter_days_out": 15.4
+    "twitter_days_out": 15.3
   },
   "alert": null
 }
